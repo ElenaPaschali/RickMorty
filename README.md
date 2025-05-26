@@ -13,7 +13,7 @@ At the end, you can see your score and play again.
 # Getting start
   1. Clone the project: git clone https://github.com/ElenaPaschali/RickMorty.git
   2. cd  RickMorty
-  3. install npm install
+  3. install npm 
   4. npm install @emotion/react @emotion/styled
   5. npm install rickmortyapi
   6. npm install --save-dev @faker-js/faker
